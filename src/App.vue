@@ -8,7 +8,7 @@
             </span>
         </div>
     </div>
-    <button @click="getAlls">Get Alls</button>
+    <button @click="getAlls">Get All</button>
   </div>
 </template>
 
